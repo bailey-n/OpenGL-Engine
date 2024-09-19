@@ -1,0 +1,5 @@
+screenwidth=1800
+screenheight=900
+fullscreen=0
+fps=60
+vsync=0
