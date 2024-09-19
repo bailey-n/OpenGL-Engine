@@ -13,7 +13,7 @@ Requires Python 3.10 and the following dependencies to be installed via pip:
   5) pygame
 
 Running the application:
-  1) Download the repository
+  1) Download the repository from the "master" branch
   2) Run "main.py" using Python from the command line
 
 The application runs a window which tests several features:
